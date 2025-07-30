@@ -6,3 +6,7 @@
 ###### Testando header h6
 
 ![Sidoka](https://rollingstone.com.br/media/_versions/sidoka_-_divulgacao_widelg.png)
+
+```javascript
+const teste = 1;
+```
